@@ -1,2 +1,2 @@
-# KS-chua
+# KS-chua.github.io
 My Github Page
