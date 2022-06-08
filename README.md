@@ -1,2 +1,2 @@
-# https://ks-chua.github.io/samchua.github.io/
+# KS-chua
 My Github Page
